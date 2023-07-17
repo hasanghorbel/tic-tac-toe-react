@@ -1,10 +1,6 @@
 # Tic-Tac-Toe-React
 ## Tic-Tac-Toe game made with react typescript
-### Create vite app with command:
-```
-npm create vite@latest
-```
-### Then run commands:
+### Clone repo and run commands:
 ```
 npm install
 npm run dev
