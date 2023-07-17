@@ -1,0 +1,24 @@
+.square {
+  height: 100px;
+  width: 130px;
+  font-size: 70px;
+  border-radius: 5% 5% 5% 5%;
+}
+.square:hover {
+  cursor: pointer;
+  background: rgba(0,0,0,0.25);
+}
+.board-row {
+  width: 390px;
+  height: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+#box {
+  position: relative;
+  width: 200px;
+  height: 30px;
+  top: 20px;
+  text-align: center;
+}
