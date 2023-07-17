@@ -2,7 +2,7 @@
 ## Tic-Tac-Toe game made with react typescript
 ### Create vite app with command:
 ```
-npm crete vite@latest
+npm create vite@latest
 ```
 ### Then run commands:
 ```
